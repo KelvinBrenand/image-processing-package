@@ -1,15 +1,15 @@
 # image_processing
 
-Description. 
-The package image_processing is used to perform:
-	-Rgb2Yiq
-	-Yiq2Rgb
-	-RgbNegative
-	-YNegative
-	-Correlation
-	-Rgb2hsb
-	-Hsb2rgb
-	-Saturation
+## The package image_processing is used to perform:
+	
+- Rgb2Yiq
+- Yiq2Rgb
+- RgbNegative
+- YNegative
+- Correlation
+- Rgb2hsb
+- Hsb2rgb
+- Saturation
 
 ## Installation
 
