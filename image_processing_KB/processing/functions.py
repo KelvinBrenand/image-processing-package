@@ -1,10 +1,10 @@
 import numpy as np
 from PIL import Image
 from statistics import median
-from image_processing.utils import Yiq2Rgb_helping_methods as hm
-from image_processing.utils import histogram_stretching as hs
-from image_processing.utils import correlation as corr
-from image_processing.utils import hsb, kernels
+from image_processing_KB.utils import Yiq2Rgb_helping_methods as hm
+from image_processing_KB.utils import histogram_stretching as hs
+from image_processing_KB.utils import correlation as corr
+from image_processing_KB.utils import hsb, kernels
 
 def rgb2Yiq(image):
     imageCopy = np.zeros(image.shape)
