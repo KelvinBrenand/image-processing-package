@@ -1,6 +1,6 @@
-# image_processing_KBrenand
+# image_processing_KB
 
-## The package image_processing_KBrenand is used to perform:
+## The package image_processing_KB is used to perform:
 	
 - Rgb2Yiq
 - Yiq2Rgb
@@ -13,10 +13,10 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_KBrenand
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_KB
 
 ```bash
-pip install image_processing_KBrenand
+pip install image_processing_KB
 ```
 
 ## Usage
