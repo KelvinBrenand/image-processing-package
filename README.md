@@ -23,7 +23,7 @@ pip install image_processing_KB
 
 ```python
 import matplotlib.pyplot as plt
-from image_processing.processing import functions
+from image_processing_KB.processing import functions
 
 image = functions.open("lena.jpg")
 result = functions.correlation(image, 3, 3, "sobelV", 0, True)

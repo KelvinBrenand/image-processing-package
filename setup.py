@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image_processing_KB",
-    version="0.0.2",
+    version="0.0.3",
     author="Kelvin Brenand",
     author_email="brenand.kelvin@gmail.com",
     description="This package performs a few image operations like Sobel and Saturation.",
